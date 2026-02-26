@@ -1,8 +1,5 @@
-# AnthropicDisruptionTradingStrategy-Backtest2
-Trading Strategy and Backtest on Anthropic Disruption
-
-=============================================================================
 ANTHROPIC DISRUPTION TRADING STRATEGY
+Trading Strategy and Backtest on Anthropic Disruption
 =============================================================================
 Strategy Logic:
   1. Scrape Anthropic's latest announcements (website scrapping+ X/Twitter API)
