@@ -3,8 +3,8 @@
 ANTHROPIC DISRUPTION TRADING STRATEGY
 =============================================================================
 Strategy Logic:
-  1. Scrape Anthropic's latest announcements (website + X/Twitter)
-  2. Use Claude API to identify which sector(s) each announcement disrupts
+  1. Scrape Anthropic's latest announcements (website scrapping+ X/Twitter API)
+  2. Use Claude Sonnet API to identify which sector(s) each announcement disrupts
   3. Pick Top 2-3 companies by market cap in that sector
   4. SHORT those companies: buy weekly put options OR short-sell the stock
   5. Hold for 3 trading days, then close position and capture profit
