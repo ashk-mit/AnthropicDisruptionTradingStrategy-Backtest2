@@ -1,4 +1,5 @@
 ANTHROPIC DISRUPTION TRADING STRATEGY
+
 Trading Strategy and Backtest on Anthropic Disruption
 =============================================================================
 Strategy Logic:
