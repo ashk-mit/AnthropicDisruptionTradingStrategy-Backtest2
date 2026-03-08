@@ -1,6 +1,6 @@
 ANTHROPIC DISRUPTION TRADING STRATEGY
 
-Trading Strategy and Backtest on Anthropic Disruption
+Trading Strategy and Backtest on AI Disruption (focus-Anthropic)
 =============================================================================
 Strategy Logic:
   1. Scrape Anthropic's latest announcements (website scrapping+ X/Twitter API)
